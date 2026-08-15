@@ -54,9 +54,9 @@ The dataset went through the following stages:
 7. Performed SQL-based analysis
 8. Used the analyzed data for Power BI visualization
 
-**Dataset:** `Add your dataset name here`
+**Dataset:** customer_shopping_behavior
 
-**Dataset Source:** `Add dataset source here`
+**Dataset Source:** Kaggle
 
 ---
 
